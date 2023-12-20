@@ -1,0 +1,21 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ "init" ],
+    "elementLabel" : "Pre AggregatedReport",
+    "elementName" : "PreAggregatedReport",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "paDataLoad",
+  "label" : "DataLoad Sandbox ",
+  "status" : "ACTIVE",
+  "uniqueName" : "DL_CalculationDataLoad",
+  "validAfter" : "2020-01-01"
+}

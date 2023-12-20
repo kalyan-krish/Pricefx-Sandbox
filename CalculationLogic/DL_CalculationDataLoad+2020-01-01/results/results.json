@@ -1,0 +1,169 @@
+[ {
+  "alertMessage" : "ArrayList",
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 16,
+  "elementLabel" : "Pre AgreegatedReport",
+  "elementName" : "PreAgreegatedReport",
+  "elementResult" : [ {
+    "Business Unit" : "Meal",
+    "Country" : "Germany",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 62.18730324
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "Italy",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 3280.325920364
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "Japan",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 819.738928008
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "Netherlands",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 647.154169314
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "Spain",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 385.249524570
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "Switzerland",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 1383.590491907
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "UK",
+    "Currency" : "EUR",
+    "Month" : "2018-M08",
+    "Revenue" : 127.79413416
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "UK",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 6914.824423080
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "USA",
+    "Currency" : "EUR",
+    "Month" : "2018-M08",
+    "Revenue" : 87.0548468625
+  }, {
+    "Business Unit" : "Meal",
+    "Country" : "USA",
+    "Currency" : "EUR",
+    "Month" : "2018-M09",
+    "Revenue" : 4973.6430955420
+  } ],
+  "elementResultClass" : "java.util.ArrayList",
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 2,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Germany\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":62.18730324,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Italy\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":3280.325920364,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Japan\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":819.738928008,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Netherlands\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":647.154169314,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Spain\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":385.249524570,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"Switzerland\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":1383.590491907,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"UK\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M08\",\"Revenue\":127.79413416,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"UK\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":6914.824423080,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"USA\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M08\",\"Revenue\":87.0548468625,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "",
+    "parameters" : null,
+    "result" : "{\"Country\":\"USA\",\"Business Unit\":\"Meal\",\"Month\":\"2018-M09\",\"Revenue\":4973.6430955420,\"Currency\":\"EUR\"}",
+    "resultClass" : "java.lang.String"
+  } ],
+  "userGroup" : null,
+  "warnings" : [ ]
+}, {
+  "alertMessage" : null,
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 0,
+  "elementLabel" : "__TRACE__",
+  "elementName" : "__TRACE__",
+  "elementResult" : "---------------------------------------------------------\nDuration (ms)                  Count  Execution element\n---------------------------------------------------------\n   139.62  100% ██████████         1  TestExecute\n     2.63    2% ░░░░░░░░░░         1  ├── get\n     0.92    1% ░░░░░░░░░░         1  ├── search.Partition\n     1.32    1% ░░░░░░░░░░         1  ├── search.ApplicationProperties\n   134.14   96% █████████▓         1  └── DL_CalculationDataLoad\n     0.72    1% ░░░░░░░░░░         1    ├── POS.flush\n   133.42   96% █████████▓         1    └── PreAgreegatedReport\n     0.33    0% ░░░░░░░░░░         1      ├── search.PricingFormula\n     0.34    0% ░░░░░░░░░░         1      ├── search.DMDatamart\n     0.02    0% ░░░░░░░░░░         1      ├── get\n     3.14    2% ░░░░░░░░░░         5      ├── search.DMDataSource\n    64.93   47% ████▓░░░░░         1      └── executeQuery\n     0.03    0% ░░░░░░░░░░         1        ├── throttling\n    64.84   46% ████▓░░░░░         1        └── execute(ExecQueryAction)\n",
+  "elementResultClass" : "java.lang.String",
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 2,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ ],
+  "userGroup" : null,
+  "warnings" : [ ]
+} ]

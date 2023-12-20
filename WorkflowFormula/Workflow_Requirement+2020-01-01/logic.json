@@ -1,0 +1,24 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "AbortInputGeneration",
+    "elementName" : "AbortInputGeneration",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "Build Steps",
+    "elementName" : "BuildSteps",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "label" : "Workflow_Sandbox",
+  "status" : "ACTIVE",
+  "uniqueName" : "SandboxWorkflow",
+  "validAfter" : "2020-01-01",
+  "workflowType" : "quote"
+}

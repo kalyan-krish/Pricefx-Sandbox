@@ -1,0 +1,11 @@
+{
+  "cssProperties" : "",
+  "fieldName" : "key2",
+  "fieldType" : 2,
+  "label" : "ProductGroup",
+  "labelTranslations" : {
+    "" : "Product Group"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}

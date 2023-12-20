@@ -1,0 +1,11 @@
+{
+  "cssProperties" : "",
+  "fieldName" : "key1",
+  "fieldType" : 2,
+  "label" : "Region",
+  "labelTranslations" : {
+    "" : "Region"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}
